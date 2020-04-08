@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://awakezz.github.io</id>
     <title>AwakeZz</title>
-    <updated>2020-04-08T06:14:54.418Z</updated>
+    <updated>2020-04-08T06:17:04.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://awakezz.github.io"/>
     <link rel="self" href="https://awakezz.github.io/atom.xml"/>
@@ -11,12 +11,20 @@
     <icon>https://awakezz.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, AwakeZz</rights>
     <entry>
-        <title type="html"><![CDATA[some photos]]></title>
+        <title type="html"><![CDATA[Some photos]]></title>
         <id>https://awakezz.github.io/post/some-photos/</id>
         <link href="https://awakezz.github.io/post/some-photos/">
         </link>
         <updated>2020-04-08T06:10:30.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://awakezz.github.io/post-images/1586326336703.jpg" alt="" loading="lazy"></figure>
+        <content type="html"><![CDATA[<p><img src="https://awakezz.github.io/post-images/1586326593311.png" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326524875.jpg" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326559801.jpg" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326563392.jpg" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326571799.jpg" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326575726.png" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326581314.png" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326585272.jpg" alt="" loading="lazy"><br>
+<img src="https://awakezz.github.io/post-images/1586326336703.jpg" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
